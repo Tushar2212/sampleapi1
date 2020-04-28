@@ -1,4 +1,6 @@
 {
+	"hotelSearchObj" : 
+	{
 	"cityId": "DXB",
 	"checkIn": "15-10-2020",
 	"checkOut": "120-10-2020",
@@ -14,4 +16,6 @@
 			"childAges": [10, 8]
 		}
 	]
+}
+
 }
