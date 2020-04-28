@@ -1,21 +1,74 @@
 {
-	"hotelSearchObj" : 
-	{
-	"cityId": "DXB",
-	"checkIn": "15-10-2020",
-	"checkOut": "120-10-2020",
-	"roomCount": 2,
-	"paxCount": [{
-			"adultCount": 1,
-			"childCount": 1,
-			"childAges": [10]
+	"hotelSearchObj": [{
+			"cityId": "DXB",
+			"checkIn": "15-10-2020",
+			"checkOut": "20-10-2020",
+			"roomCount": 2,
+			"paxCount": [{
+					"adultCount": 1,
+					"childCount": 1,
+					"childAges": [10]
+				},
+				{
+					"adultCount": 2,
+					"childCount": 2,
+					"childAges": [10, 8]
+				}
+			]
 		},
 		{
-			"adultCount": 2,
-			"childCount": 2,
-			"childAges": [10, 8]
+			"cityId": "DEL",
+			"checkIn": "10-10-2020",
+			"checkOut": "12-10-2020",
+			"roomCount": 1,
+			"paxCount": [{
+				"adultCount": 1,
+				"childCount": 1,
+				"childAges": [10]
+			}]
+		},
+			   {
+			"cityId": "MAD",
+			"checkIn": "20-10-2020",
+			"checkOut": "12-11-2020",
+			"roomCount": 3,
+			"paxCount": [{
+				"adultCount": 1,
+				"childCount": 1,
+				"childAges": [10]
+			},
+				    {
+				"adultCount": 2,
+				"childCount": 2,
+				"childAges": [1,2]
+			},
+				    {
+				"adultCount": 1,
+				"childCount": 3,
+				"childAges": [15,12,6]
+			}]
+		},
+			   {
+			"cityId": "LON",
+			"checkIn": "10-10-2020",
+			"checkOut": "12-10-2020",
+			"roomCount": 1,
+			"paxCount": [{
+				"adultCount": 1,
+				"childCount": 1,
+				"childAges": [10]
+			}]
+		},
+			   {
+			"cityId": "PSG",
+			"checkIn": "10-10-2020",
+			"checkOut": "12-10-2020",
+			"roomCount": 1,
+			"paxCount": [{
+				"adultCount": 1,
+				"childCount": 1,
+				"childAges": [10]
+			}]
 		}
 	]
-}
-
 }
