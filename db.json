@@ -71,18 +71,5 @@
 				"childAges": [10]
 			}]
 		}
-	],
-	"hotelResOb": {
-		"hotelName": "Ibis",
-		"hotelCode": "IBDBX",
-		"starRating": 4.5,
-		"address": "123 ,Dubai",
-		"city": "Dubai",
-		"cityCode": "DXB",
-		"amount": 5000,
-		"currency": "AED",
-		"basicPropertyInfo": "Nice",
-		"hotelPicture": "www.google.co.in"
-
-	}
+	]
 }
